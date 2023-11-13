@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header, footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+#cell1 {
+    background-color: #FFFF00;
+}
+
+#cell2 {
+    background-color: #3333FF;
+}
+
+#cell3 {
+    background-color: #33CC00;
+}
+#cell4 {
+    background-color: #FF33FF;
+}
